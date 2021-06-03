@@ -14,6 +14,10 @@ namespace csharpbasics
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            //Abstraction
+            Order order = new Order();
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
