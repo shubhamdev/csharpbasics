@@ -2,4 +2,6 @@
 /csharpbasics/obj
 /.vs/csharpbasics
 /csharpbasics/.vs
+.vscode
+/.vscode
 
