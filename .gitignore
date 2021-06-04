@@ -1,7 +1,7 @@
-/csharpbasics/bin
-/csharpbasics/obj
-/.vs/csharpbasics
-/csharpbasics/.vs
+/ConsoleApplicationCSharpBasics/bin
+/ConsoleApplicationCSharpBasics/obj
+/.vs/ConsoleApplicationCSharpBasics
+/ConsoleApplicationCSharpBasics/.vs
 .vscode
 /.vscode
 
